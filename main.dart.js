@@ -40845,7 +40845,7 @@ t=P.M(C.c.O(255*s.b.F(0,r.gk(r))),(16711680&t)>>>16,(65280&t)>>>8,(255&t)>>>0)}e
 s=o.r.f
 r=s.a
 t=t.a
-t=P.M(C.c.O(255*s.b.F(0,r.gk(r))),(16711680&t)>>>16,(65280&t)>>>8,(255&t)>>>0)}t=R.dF(L.as("ken@kenlee.co",1,C.aR,!1,A.G(n,n,t,n,n,n,n,n,m,n,n,12,n,C.k,n,n,!0,2,n,n,n,n,n),n),new E.O8(o),new E.O9(o))
+t=P.M(C.c.O(255*s.b.F(0,r.gk(r))),(16711680&t)>>>16,(65280&t)>>>8,(255&t)>>>0)}t=R.dF(L.as("kenaragorn@gmail.com",1,C.aR,!1,A.G(n,n,t,n,n,n,n,n,m,n,n,12,n,C.k,n,n,!0,2,n,n,n,n,n),n),new E.O8(o),new E.O9(o))
 s=o.r.r
 r=s.a
 return Q.HZ(M.bz(n,new T.bJ(C.w,n,n,T.dQ(H.a([new T.cT(C.m8,n,n,q,n),new T.cc(2,C.a_,new T.cT(C.w,n,n,u,n),n),new T.cT(C.m6,n,n,T.by(H.a([new R.k8(2,n),new T.cc(1,C.a_,new T.HN(1,t,n),n),new T.cc(1,C.a_,Z.X0(P.M(C.c.O(255*s.b.F(0,r.gk(r))),255,255,255),2,20,1,100),n)],p),C.J,C.ft,C.im),n)],p),C.e5,C.fu,C.v),n),l,n,n,n,n,n,n,n,n),!0)},
@@ -40955,14 +40955,14 @@ return M.bz(q,new T.bJ(C.w,q,q,T.by(H.a([u,t,new T.b3(C.ow,L.as("Using Flutter",
 jr:function(){var u=0,t=P.ad(null)
 var $async$jr=P.a8(function(a,b){if(a===1)return P.aa(b,t)
 while(true)switch(u){case 0:u=5
-return P.an(T.xc("mailto:ken_the_virus@yahoo.com"),$async$jr)
+return P.an(T.xc("mailto:kenaragorn@gmail.com"),$async$jr)
 case 5:u=b?2:4
 break
 case 2:u=6
-return P.an(T.xh("mailto:ken_the_virus@yahoo.com"),$async$jr)
+return P.an(T.xh("mailto:kenaragorn@gmail.com"),$async$jr)
 case 6:u=3
 break
-case 4:throw H.d("Could not launch mailto:ken_the_virus@yahoo.com")
+case 4:throw H.d("Could not launch mailto:kenaragorn@gmail.com")
 case 3:return P.ab(null,t)}})
 return P.ac($async$jr,t)},
 eb:function(a){return this.HV(a)},
