@@ -5,6 +5,7 @@ file:///C:/Users/ken_t/Documents/FlutterWebProjects/kenlee_website/lib/component
 file:///C:/Users/ken_t/Documents/FlutterWebProjects/kenlee_website/lib/components/linear_gradient_container.dart
 file:///C:/Users/ken_t/Documents/FlutterWebProjects/kenlee_website/lib/generated_plugin_registrant.dart
 file:///C:/Users/ken_t/Documents/FlutterWebProjects/kenlee_website/lib/main.dart
+file:///C:/Users/ken_t/Documents/FlutterWebProjects/kenlee_website/lib/models/work_model.dart
 file:///C:/Users/ken_t/Documents/FlutterWebProjects/kenlee_website/lib/modules/about/about_screen.dart
 file:///C:/Users/ken_t/Documents/FlutterWebProjects/kenlee_website/lib/modules/experience/experience_screen.dart
 file:///C:/Users/ken_t/Documents/FlutterWebProjects/kenlee_website/lib/modules/home/home_enter_animation.dart
@@ -12,6 +13,8 @@ file:///C:/Users/ken_t/Documents/FlutterWebProjects/kenlee_website/lib/modules/h
 file:///C:/Users/ken_t/Documents/FlutterWebProjects/kenlee_website/lib/modules/main_scaffold.dart
 file:///C:/Users/ken_t/Documents/FlutterWebProjects/kenlee_website/lib/modules/nav_bar_enter_animation.dart
 file:///C:/Users/ken_t/Documents/FlutterWebProjects/kenlee_website/lib/modules/side_links_enter_animation.dart
+file:///C:/Users/ken_t/Documents/FlutterWebProjects/kenlee_website/lib/modules/work/work_details_card.dart
+file:///C:/Users/ken_t/Documents/FlutterWebProjects/kenlee_website/lib/modules/work/work_screen.dart
 file:///C:/Users/ken_t/Documents/FlutterWebProjects/kenlee_website/lib/router.dart
 file:///C:/Users/ken_t/Documents/FlutterWebProjects/kenlee_website/lib/sys_constants.dart
 file:///C:/Users/ken_t/Documents/FlutterWebProjects/kenlee_website/lib/theme/system_theme.dart
