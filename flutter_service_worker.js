@@ -33,12 +33,12 @@ const RESOURCES = {
 "/assets\FontManifest.json": "eb0c4c447382e81f81f9eb78392c3996",
 "/assets\fonts\MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "/assets\ken_profile_pic.jpg": "2ef0dc7aeb57b199cc30f5a185a69b79",
-"/assets\LICENSE": "d76455284df3fd524481661aa6e008ec",
+"/assets\LICENSE": "5dd6d65adb19c0df6558582605b5fea4",
 "/assets\packages\community_material_icon\fonts\materialdesignicons-webfont.ttf": "baded94134f273450a473a4962111324",
 "/assets\packages\cupertino_icons\assets\CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "/assets\under_construction.png": "6f029f00284d0e2deed421b580f666df",
 "/index.html": "4f081593f2d939f54e59dab889624ee1",
-"/main.dart.js": "9496350f286feb137a96d64d7f39cc2a",
+"/main.dart.js": "02c6b1ef2bba2bca25feffe5ba380c6e",
 "/main.dart.js.deps": "05dc1273ea9f1ee7fbe186b1d3722019"
 };
 
