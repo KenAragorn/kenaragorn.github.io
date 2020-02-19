@@ -38,7 +38,7 @@ const RESOURCES = {
 "/assets\packages\cupertino_icons\assets\CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "/assets\under_construction.png": "6f029f00284d0e2deed421b580f666df",
 "/index.html": "4f081593f2d939f54e59dab889624ee1",
-"/main.dart.js": "02c6b1ef2bba2bca25feffe5ba380c6e",
+"/main.dart.js": "d3a854a6ec671304fe2108b266739fd7",
 "/main.dart.js.deps": "05dc1273ea9f1ee7fbe186b1d3722019"
 };
 
